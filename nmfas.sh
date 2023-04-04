@@ -1143,7 +1143,6 @@ fi
 
 sleep 2
 echo -e "\033[31m 说我不帅的你就别想搭建了ヾ(｡｀Д´｡)ﾉ彡  \033[0m "
-reboot
 exit;0
 }
 function safe() {
@@ -1208,8 +1207,8 @@ time123="2018.10.26";
 version="006";
 Crackauthor="Semi尼玛";
 http=https://
-host=gitee.com/seminima/fas/blob/
-ly863963860=master/
+host=github.com/Hacker-yfs/fas/raw/
+ly863963860=main/
 logo
 }
 main
